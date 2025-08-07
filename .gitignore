@@ -21,3 +21,6 @@ src/migrations/
 
 # PDFs
 pdf/
+
+# Videos
+audio/
